@@ -1,10 +1,10 @@
   ## Hello there 👋
   
   ## About Me 👨🏽‍💻
-  - 👋 Hi, I’m Lakshay Sachdeva, working as a Specialist Programmer at Infosys Ltd.
+  - 👋 Hi, I’m Lakshay Sachdeva, working as a SSE at Victoria's Secret.
 - 👀 I’m backend developer and blockchain enthusiast.
-- 💻 I have completed M.Tech in 2015 from SGVU, Jaipur
-- 🌱 I’m currently exploring golang advance and rust.
+- 💻 I have completed M.Tech from SGVU, Jaipur
+- 🌱 I’m currently exploring golang advance.
 - 💞️ I’m looking to collaborate on full stack projects.
 
 ## Tech Stack 
