@@ -83,8 +83,8 @@ export default {
         },
       },
       fontFamily: {
-        sans: ["Inter", "var(--font-sans)"],
-        serif: ["Playfair Display", "var(--font-serif)"],
+        sans: ["var(--font-sans)"],
+        serif: ["var(--font-serif)"],
         mono: ["var(--font-mono)"],
       },
       keyframes: {
