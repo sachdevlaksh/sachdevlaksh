@@ -1,11 +1,9 @@
   ## Hello there 👋
   
   ## About Me 👨🏽‍💻
-  - 👋 Hi, I’m Lakshay Sachdeva, working as a SSE at Victoria's Secret.
-- 👀 I’m backend developer and blockchain enthusiast.
-- 💻 I have completed M.Tech from SGVU, Jaipur
-- 🌱 I’m currently exploring golang advance.
-- 💞️ I’m looking to collaborate on full stack projects.
+  - 👋 Hi, I’m Lakshay Sachdeva, working as a Application Tech Lead at Victoria's Secret.
+- 👀 I’m Senior backend developer with experience on Java and Golang.
+- 💞️ I have been part of Industries like Ecommerce, Insurance and Finance.
 
 ## Tech Stack 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
